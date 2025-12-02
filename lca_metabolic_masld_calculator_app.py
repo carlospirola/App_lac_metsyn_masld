@@ -55,7 +55,7 @@ FEMALE_CLASS_LABELS = {
     5: "CMS with insulin resistance, moderate MASLD and liver fibrosis",
     6: "Alcohol-related severe hepatic injury",
     7: "Central obesity with mild MASLD and minimal metabolic alterations",
-    8: "Hypertensive but low CMS in older women",
+    8: "Posibly hypertensive but low CMS in older women",
 }
 
 # ============================================================================
